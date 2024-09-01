@@ -129,4 +129,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0bera1&" alt="0bera1" />
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=0bera1)
+![Profil görüntüleme sayısı](https://komarev.com/ghpvc/?username=0bera1&color=green)
