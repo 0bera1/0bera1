@@ -3,7 +3,7 @@
 <h3 align="center">A passionate mobile app developer from Turkey.</h3>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0bera1" alt="0bera1" /></a> </p>
-<img  align="right" alt="Coding" width="300"   src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk">
+<img  align="right" alt="Coding" width="250"   src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk">
 
 - 💬 Ask me about **react-native, Kotlin, Java, Flutter**
 
