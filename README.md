@@ -120,8 +120,7 @@
   
 </p>
 <br>
-![](https://komarev.com/ghpvc/?username=0bera1)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%20bera1&count_bg=%23FF0071&title_bg=%23555555&icon=&icon_color=%23724040&title=hits&edge_flat=false)]()
+[![Bera profile views](https://u8views.com/api/v1/github/profiles/102685755/views/day-week-month-total-count.svg)](https://u8views.com/github/0bera1)
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0bera1&show_icons=true&locale=en&layout=compact" alt="0bera1" />
