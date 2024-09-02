@@ -120,7 +120,9 @@
   
 </p>
 <br>
-[![Bera profile views](https://u8views.com/api/v1/github/profiles/102685755/views/day-week-month-total-count.svg)](https://u8views.com/github/0bera1)
+
+<a href="https://u8views.com/github/0bera1"><img src="https://u8views.com/api/v1/github/profiles/102685755/views/day-week-month-total-count.svg"></a>
+
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0bera1&show_icons=true&locale=en&layout=compact" alt="0bera1" />
