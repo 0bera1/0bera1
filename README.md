@@ -120,6 +120,8 @@
   
 </p>
 <br>
+![](https://komarev.com/ghpvc/?username=0bera1)
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0bera1&show_icons=true&locale=en&layout=compact" alt="0bera1" />
 </p>
