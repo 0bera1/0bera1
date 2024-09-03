@@ -121,7 +121,7 @@
 </p>
 <br>
 
-<a href="https://u8views.com/github/0bera1"><img src="https://u8views.com/api/v1/github/profiles/102685755/views/day-week-month-total-count.svg"></a>
+<a align="center" href="https://u8views.com/github/0bera1"><img src="https://u8views.com/api/v1/github/profiles/102685755/views/day-week-month-total-count.svg"></a>
 
 <br>
 <p align="center">
