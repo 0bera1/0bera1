@@ -1,5 +1,5 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Ahmed Bera EKIMCI</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Bera EKIMCI </h1>
 <h3 align="center">A passionate mobile app developer from Turkey.</h3>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0bera1" alt="0bera1" /></a> </p>
