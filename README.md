@@ -137,5 +137,9 @@
 </p>
 <br>
 <p>
-   [![0bera1Grap](https://github-readme-activity-graph.vercel.app/graph?username=0bera1&hide_border=true&theme=xcode)]
 </p>
+
+<div align="center">
+
+   ![0bera1Grap](https://github-readme-activity-graph.vercel.app/graph?username=0bera1&hide_border=true&theme=xcode)
+</div>
