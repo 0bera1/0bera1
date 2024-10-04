@@ -135,4 +135,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0bera1&" alt="0bera1" />
 </p>
-<div>[![0bera1Grap](https://github-readme-activity-graph.vercel.app/graph?username=0bera1&hide_border=true&theme=xcode)]</div>
+<br>
+<p>
+   [![0bera1Grap](https://github-readme-activity-graph.vercel.app/graph?username=0bera1&hide_border=true&theme=xcode)]
+</p>
