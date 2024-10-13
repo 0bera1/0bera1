@@ -1,7 +1,8 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)
 
-
-![](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" height="250" />  
+</p>
 <h1 align="center">I'm Ahmed Bera EKIMCI</h1>
 <h3 align="center">A passionate mobile app developer from Turkey.</h3>
 
@@ -20,7 +21,7 @@
 - ⚡ Fun fact: **I turn coffee into code, and sometimes, into decent mobile apps!**
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -32,7 +33,7 @@
   </a>
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
 </p>
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
@@ -73,7 +74,7 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
 </p>
 <h3 align="center">Frameworks:</h3>
 <p align="center">
@@ -110,7 +111,7 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
 </p>
 <h3 align="center">Operating Systems:</h3>
 <p align="center">
@@ -129,7 +130,7 @@
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
 </p>
 <h3 align="center">Tools:</h3>
 <p align="center">
@@ -197,7 +198,7 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
 </p>
 <h3 align="center">Most Used Languages:</h3>
 <p align="center">
@@ -217,7 +218,7 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
 </p>
 <h3 align="center">Visitor Count:</h3>
 <p align="center">
@@ -226,7 +227,7 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
 </p>
 ### 💡 Open Source Contributions:
 - Contributed to the [React Native Community](https://github.com/react-native-community).
@@ -234,7 +235,8 @@
 - Contributed to various [React.js](https://github.com/facebook/react) projects.
 - Collaborated on open-source [Kotlin](https://github.com/JetBrains/kotlin) projects focused on Android app development.
 
-![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
+</p>
 ### ☕ Support Me
 - If you appreciate my work and want to support my projects, consider [connecting with me on LinkedIn](https://www.linkedin.com/in/ahmed-bera-ekimci) and leaving a recommendation. Your words can help me grow and reach more people!
