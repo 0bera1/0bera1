@@ -1,6 +1,8 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)
 
-<h1 align="center">Hi 👋, I'm Ahmed Bera EKIMCI</h1>
+
+![](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
+<h1 align="center">I'm Ahmed Bera EKIMCI</h1>
 <h3 align="center">A passionate mobile app developer from Turkey.</h3>
 
 <p align="center">
@@ -16,8 +18,10 @@
 - 📄 Know about my experiences: **[LinkedIn](https://linkedin.com/in/ahmed-bera-ekimci)**.
 - 🌐 Go to my website: **[beraekimci.com.tr](http://beraekimci.com.tr)**.
 - ⚡ Fun fact: **I turn coffee into code, and sometimes, into decent mobile apps!**
----
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-bera-ekimci" target="blank">
@@ -27,9 +31,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ahmed Bera Instagram" height="30" width="40" />
   </a>
 </p>
-
----
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+</p>
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank">
@@ -67,8 +71,10 @@
   </a>
 </p>
 
----
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+</p>
 <h3 align="center">Frameworks:</h3>
 <p align="center">
  
@@ -101,8 +107,11 @@
   </a> 
 </p>
 
----
 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+</p>
 <h3 align="center">Operating Systems:</h3>
 <p align="center">
   <a href="https://www.microsoft.com/en-us/windows" target="_blank">
@@ -119,8 +128,9 @@
   </a>
 </p>
 
----
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+</p>
 <h3 align="center">Tools:</h3>
 <p align="center">
   <a href="https://developer.android.com/studio" target="_blank">
@@ -185,7 +195,10 @@
   </a>
 </p>
 
----
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+</p>
 <h3 align="center">Most Used Languages:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0bera1&layout=compact&theme=radical" alt="Ahmed Bera Most Used Languages" />
@@ -202,21 +215,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0bera1&theme=radical" alt="Ahmed Bera GitHub Streak" />
 </p>
 
----
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+</p>
 <h3 align="center">Visitor Count:</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0bera1&label=Profile%20Views&color=blue&style=plastic" alt="0bera1" />
 </p>
 
----
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+</p>
 ### 💡 Open Source Contributions:
 - Contributed to the [React Native Community](https://github.com/react-native-community).
 - Developed features for [Firebase Functions](https://github.com/firebase/functions).
 - Contributed to various [React.js](https://github.com/facebook/react) projects.
 - Collaborated on open-source [Kotlin](https://github.com/JetBrains/kotlin) projects focused on Android app development.
----
+
+![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ### ☕ Support Me
 - If you appreciate my work and want to support my projects, consider [connecting with me on LinkedIn](https://www.linkedin.com/in/ahmed-bera-ekimci) and leaving a recommendation. Your words can help me grow and reach more people!
