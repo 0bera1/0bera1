@@ -227,16 +227,19 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" />
 </p>
-### 💡 Open Source Contributions:
+
+### 💡 Open Source Contributions
 - Contributed to the [React Native Community](https://github.com/react-native-community).
 - Developed features for [Firebase Functions](https://github.com/firebase/functions).
 - Contributed to various [React.js](https://github.com/facebook/react) projects.
 - Collaborated on open-source [Kotlin](https://github.com/JetBrains/kotlin) projects focused on Android app development.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="450" />
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="450" />
 </p>
+
 ### ☕ Support Me
 - If you appreciate my work and want to support my projects, consider [connecting with me on LinkedIn](https://www.linkedin.com/in/ahmed-bera-ekimci) and leaving a recommendation. Your words can help me grow and reach more people!
