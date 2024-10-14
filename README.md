@@ -12,8 +12,8 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk">
 
-- 🔭 I’m currently working on **location-based apps with React.js, React Native, Node.js, Kotlin, and Swift**.
-- 💬 Ask me about **React Native, Kotlin, React.js, Node.js, Flutter**.
+- 🔭 I’m currently working on **location-based apps with React.js, React Native, Node.js, Kotlin and Swift**.
+- 💬 Ask me about **React Native, Kotlin, React.js, Node.js, Flutter and Swift**.
 - 📫 How to reach me: **[ahmedberaekimci@gmail.com](mailto:ahmedberaekimci@gmail.com)**.
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/0bera1)**.
 - 📄 Know about my experiences: **[LinkedIn](https://linkedin.com/in/ahmed-bera-ekimci)**.
