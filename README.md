@@ -80,7 +80,7 @@
 <p align="center">
  
 <a href="https://developer.android.com/jetpack/compose" target="_blank">
-    <img src="https://molo17.com/wp-content/uploads/2021/11/StudioCompose10-1024x576.jpg" alt="Jetpack Compose" width="40" height="40"/>
+    <img src="https://developer.android.com/static/images/logos/android.svg" alt="Jetpack Compose" width="40" height="40"/>
   </a>
   <a href="https://ktor.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Ktor" width="40" height="40"/>
