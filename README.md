@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on **location-based apps with React.js, React Native, Node.js, Kotlin and Swift**.
 - 💬 Ask me about **React Native, Kotlin, React.js, Node.js, Flutter and Swift**.
-- 📫 How to reach me: **[ahmedberaekimci@gmail.com](mailto:ahmedberaekimci@gmail.com)**.
+- 📫 How to reach me : **[ahmedberaekimci@gmail.com](mailto:ahmedberaekimci@gmail.com)**.
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/0bera1)**.
-- 📄 Know about my experiences: **[LinkedIn](https://linkedin.com/in/ahmed-bera-ekimci)**.
-- 🌐 Go to my website: **[beraekimci.com.tr](http://beraekimci.com.tr)**.
-- ⚡ Fun fact: **I turn coffee into code, and sometimes, into decent mobile apps!**
+- 📄 Know about my experiences : **[LinkedIn](https://linkedin.com/in/ahmed-bera-ekimci)**.
+- 🌐 Go to my website : **[beraekimci.com.tr](http://beraekimci.com.tr)**.
+- ⚡ Fun fact : **I turn coffee into code, and sometimes, into decent mobile apps!**
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
