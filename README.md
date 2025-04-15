@@ -3,6 +3,7 @@
 # 💫 About Me:
 🔭 I'm currently working on with React.js, Nest.js, React Native and Node.js.<br>💬 Ask me about TypeScript, JavaScript, React Native, Kotlin, React.js, Node.js, Flutter and Swift.<br>📫 How to reach me : [ahmedberaekimci@gmail.com](mailto:ahmedberaekimci@gmail.com) <br>👨‍💻 All of my projects are available at GitHub.<br>📄 Know about my experiences : [LinkedIn](https://www.linkedin.com/in/ahmed-bera-ekimci/).<br>🌐 Go to my website : [beraekimci.com.tr](https://beraekimci.com.tr) <br>⚡ Fun fact : I turn coffee into code, and sometimes, into decent mobile apps!<br>
  
+<img src="https://raw.githubusercontent.com/0bera1/0bera1/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0bera1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-bera-ekimci) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GeceBera) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedberaekimci@gmail.com) 
@@ -18,20 +19,24 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=0bera1&theme=moltack&hide_border=false)<br/>
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img  src="https://github-readme-stats.vercel.app/api?username=0bera1&theme=moltack&hide_border=false&include_all_commits=true&count_private=true" />
-    </td>
-    <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0bera1&theme=moltack&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-  </tr>
-</table>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0bera1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=0bera1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  
+</div>
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=0bera1&limit=5&theme=moltack&combine_all_yearly_contributions=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0bera1/0bera1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0bera1/0bera1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/0bera1/0bera1/output/pacman-contribution-graph.svg">
+</picture>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/0bera1/count.svg?"  />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
