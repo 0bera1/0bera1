@@ -1,5 +1,5 @@
-### Software Developer
-## Ahmed Bera Ekimci
+## Software Developer
+#### Ahmed Bera Ekimci
 # 💫 About Me:
 🔭 I'm currently working on with React.js, React Native and Node.js.<br>💬 Ask me about React Native, Kotlin, React.js, Node.js, Flutter and Swift.<br>📫 How to reach me : ahmedberaekimci@gmail.com.<br>👨‍💻 All of my projects are available at GitHub.<br>📄 Know about my experiences : LinkedIn.<br>🌐 Go to my website : beraekimci.com.tr.<br>⚡ Fun fact : I turn coffee into code, and sometimes, into decent mobile apps!<br>
 
