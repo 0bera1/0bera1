@@ -1,6 +1,5 @@
 # <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4b94-ac44-790190f2a947.gif" height="40" /> Merhaba, Ben Bera EKIMCI <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4b94-ac44-790190f2a947.gif" height="40" />
 
-<h3 align="center">Türkiye'den tutkulu bir yazılım geliştiricisi</h3>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0bera1&theme=algolia&margin-w=15" alt="0bera1" />
