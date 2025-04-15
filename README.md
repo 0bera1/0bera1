@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 I'm currently working on with React.js, Nest.js, React Native and Node.js.<br>💬 Ask me about TypeScript, JavaScript, React Native, Kotlin, React.js, Node.js, Flutter and Swift.<br>📫 How to reach me : [ahmedberaekimci@gmail.com](mailto:ahmedberaekimci@gmail.com) <br>👨‍💻 All of my projects are available at GitHub.<br>📄 Know about my experiences : [LinkedIn](https://www.linkedin.com/in/ahmed-bera-ekimci/).<br>🌐 Go to my website : [beraekimci.com.tr](https://beraekimci.com.tr) <br>⚡ Fun fact : I turn coffee into code, and sometimes, into decent mobile apps!<br>
  
-![snake gif](https://github.com/0bera1/0bera1/blob/output/snake.svg)
+<img src="https://raw.githubusercontent.com/0bera1/0bera1/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0bera1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-bera-ekimci) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GeceBera) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedberaekimci@gmail.com) 
