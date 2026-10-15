@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="520" viewBox="0 0 900 520" role="img" aria-label="Ahmed Bera Ekimci, full-stack developer. Animated terminal and system topology.">
+<defs>
+<style>.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+<linearGradient id="g1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0969da"/><stop offset="0.55" stop-color="#8250df"/><stop offset="1" stop-color="#e8590c"/></linearGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#d0d7de"/></pattern>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.08" stop-color="#fff" stop-opacity="1"/><stop offset="0.92" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="tickmask"><rect x="40" y="424" width="820" height="32" fill="url(#fade)"/></mask>
+<clipPath id="tickclip"><rect x="40" y="424" width="820" height="32"/></clipPath>
+<clipPath id="c0"><rect x="64" y="200" height="20" width="0"><animate attributeName="width" values="0.0;7.8;15.6;23.4;31.2;39.0;46.8;54.6;62.4" calcMode="discrete" dur="0.36s" begin="0.7s" fill="freeze"/></rect></clipPath>
+<clipPath id="c1"><rect x="64" y="222" height="20" width="0"><animate attributeName="width" values="0.0;7.8;15.6;23.4;31.2;39.0;46.8;54.6;62.4;70.2;78.0;85.8;93.6;101.4;109.2;117.0;124.8;132.6" calcMode="discrete" dur="0.51s" begin="1.31s" fill="freeze"/></rect></clipPath>
+<clipPath id="c2"><rect x="64" y="254" height="20" width="0"><animate attributeName="width" values="0.0;7.8;15.6;23.4;31.2;39.0;46.8;54.6;62.4;70.2;78.0;85.8;93.6;101.4;109.2" calcMode="discrete" dur="0.63s" begin="2.07s" fill="freeze"/></rect></clipPath>
+<clipPath id="c3"><rect x="64" y="276" height="20" width="0"><animate attributeName="width" values="0.0;7.8;15.6;23.4;31.2;39.0;46.8;54.6;62.4;70.2;78.0;85.8;93.6;101.4;109.2;117.0;124.8;132.6;140.4;148.2;156.0;163.8;171.6;179.4;187.2;195.0;202.8;210.6;218.4;226.2;234.0;241.8;249.6;257.4;265.2;273.0;280.8;288.6;296.4;304.2" calcMode="discrete" dur="1.17s" begin="2.95s" fill="freeze"/></rect></clipPath>
+<clipPath id="c4"><rect x="64" y="308" height="20" width="0"><animate attributeName="width" values="0.0;7.8;15.6;23.4;31.2;39.0;46.8;54.6;62.4;70.2;78.0;85.8;93.6;101.4;109.2;117.0;124.8;132.6;140.4" calcMode="discrete" dur="0.81s" begin="4.37s" fill="freeze"/></rect></clipPath>
+<clipPath id="c5"><rect x="64" y="330" height="20" width="0"><animate attributeName="width" values="0.0;7.8;15.6;23.4;31.2;39.0;46.8;54.6;62.4;70.2;78.0;85.8;93.6;101.4;109.2;117.0;124.8;132.6;140.4;148.2;156.0;163.8;171.6;179.4;187.2;195.0;202.8;210.6;218.4;226.2;234.0;241.8" calcMode="discrete" dur="0.93s" begin="5.43s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="899" height="519" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="0.5" y="0.5" width="899" height="519" rx="14" fill="url(#dots)" opacity="0.55"/>
+<circle cx="34" cy="24" r="6" fill="#ff5f56"/>
+<circle cx="54" cy="24" r="6" fill="#ffbd2e"/>
+<circle cx="74" cy="24" r="6" fill="#27c93f"/>
+<text class="mono" x="450" y="28" font-size="12" fill="#6e7781" text-anchor="middle">bera@dev: ~/profile</text>
+<line x1="0" y1="44" x2="900" y2="44" stroke="#d0d7de"/>
+<text class="sans" x="40" y="112" font-size="44" font-weight="700" letter-spacing="-1" fill="url(#g1)">Ahmed Bera Ekimci</text>
+<text class="mono" x="41" y="138" font-size="14" fill="#57606a" xml:space="preserve">full-stack developer  /  web &amp; mobile  /  türkiye</text>
+<rect x="40" y="165" width="390" height="235" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<text class="mono" x="64" y="190" font-size="11" fill="#6e7781" letter-spacing="1.5">~/WHOAMI</text>
+<line x1="40" y1="200" x2="430" y2="200" stroke="#d0d7de"/>
+<text class="mono" x="64" y="214" font-size="13" xml:space="preserve" clip-path="url(#c0)"><tspan fill="#1a7f37">$ </tspan><tspan fill="#1f2328">whoami</tspan></text>
+<text class="mono" x="64" y="236" font-size="13" xml:space="preserve" clip-path="url(#c1)"><tspan fill="#0969da">ahmed-bera-ekimci</tspan></text>
+<text class="mono" x="64" y="268" font-size="13" xml:space="preserve" clip-path="url(#c2)"><tspan fill="#1a7f37">$ </tspan><tspan fill="#1f2328">cat role.txt</tspan></text>
+<text class="mono" x="64" y="290" font-size="13" xml:space="preserve" clip-path="url(#c3)"><tspan fill="#57606a">full-stack developer · web &amp; mobile</tspan></text>
+<text class="mono" x="64" y="322" font-size="13" xml:space="preserve" clip-path="url(#c4)"><tspan fill="#1a7f37">$ </tspan><tspan fill="#1f2328">ls capabilities/</tspan></text>
+<text class="mono" x="64" y="344" font-size="13" xml:space="preserve" clip-path="url(#c5)"><tspan fill="#57606a">web · mobile · realtime · infra</tspan></text>
+<g opacity="0"><animate attributeName="opacity" values="0;1" calcMode="discrete" dur="0.01s" begin="6.61s" fill="freeze"/><text class="mono" x="64" y="376" font-size="13" fill="#1a7f37">$</text><rect x="80" y="365" width="8" height="15" fill="#0969da"><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.1s" repeatCount="indefinite"/></rect></g>
+<rect x="450" y="165" width="410" height="235" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<text class="mono" x="474" y="190" font-size="11" fill="#6e7781" letter-spacing="1.5">SYSTEM.TOPOLOGY</text>
+<line x1="450" y1="200" x2="860" y2="200" stroke="#d0d7de"/>
+<rect x="612" y="208" width="240" height="150" rx="10" fill="none" stroke="#8250df" stroke-opacity="0.6" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="0" to="-16" dur="1.6s" repeatCount="indefinite"/></rect>
+<text class="mono" x="624" y="225" font-size="10" fill="#8250df" letter-spacing="0.5">docker · kubernetes</text>
+<path id="p1" d="M576,244 C603,244 603,280 630,280" fill="none" stroke="#afb8c1" stroke-width="1.5"/>
+<path id="p2" d="M576,329 C603,329 603,292 630,292" fill="none" stroke="#afb8c1" stroke-width="1.5"/>
+<path id="p3" d="M730,280 C746,280 746,244 762,244" fill="none" stroke="#afb8c1" stroke-width="1.5"/>
+<path id="p4" d="M730,292 C746,292 746,329 762,329" fill="none" stroke="#afb8c1" stroke-width="1.5"/>
+<rect x="472" y="224" width="104" height="40" rx="7" fill="#f6f8fa" stroke="#0969da" stroke-opacity="0.7"/><text class="mono" x="524.0" y="241" font-size="11" fill="#1f2328" text-anchor="middle">Web client</text><text class="mono" x="524.0" y="255" font-size="9.5" fill="#0969da" text-anchor="middle">Next.js</text><circle cx="568" cy="232" r="2.5" fill="#0969da"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<rect x="472" y="309" width="104" height="40" rx="7" fill="#f6f8fa" stroke="#0969da" stroke-opacity="0.7"/><text class="mono" x="524.0" y="326" font-size="11" fill="#1f2328" text-anchor="middle">Mobile app</text><text class="mono" x="524.0" y="340" font-size="9.5" fill="#0969da" text-anchor="middle">React Native</text><circle cx="568" cy="317" r="2.5" fill="#0969da"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<rect x="630" y="266" width="100" height="40" rx="7" fill="#f6f8fa" stroke="#e8590c" stroke-opacity="0.7"/><text class="mono" x="680.0" y="283" font-size="11" fill="#1f2328" text-anchor="middle">API layer</text><text class="mono" x="680.0" y="297" font-size="9.5" fill="#e8590c" text-anchor="middle">NestJS</text><circle cx="722" cy="274" r="2.5" fill="#e8590c"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<rect x="762" y="224" width="84" height="40" rx="7" fill="#f6f8fa" stroke="#1a7f37" stroke-opacity="0.7"/><text class="mono" x="804.0" y="241" font-size="11" fill="#1f2328" text-anchor="middle">SQL store</text><text class="mono" x="804.0" y="255" font-size="9.5" fill="#1a7f37" text-anchor="middle">PostgreSQL</text><circle cx="838" cy="232" r="2.5" fill="#1a7f37"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<rect x="762" y="309" width="84" height="40" rx="7" fill="#f6f8fa" stroke="#1a7f37" stroke-opacity="0.7"/><text class="mono" x="804.0" y="326" font-size="11" fill="#1f2328" text-anchor="middle">Realtime</text><text class="mono" x="804.0" y="340" font-size="9.5" fill="#1a7f37" text-anchor="middle">Firebase</text><circle cx="838" cy="317" r="2.5" fill="#1a7f37"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#0969da" opacity="0"><animateMotion dur="2.4s" begin="0.0s" repeatCount="indefinite"><mpath href="#p1" xlink:href="#p1"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#0969da" opacity="0"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite"><mpath href="#p1" xlink:href="#p1"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#0969da" opacity="0"><animateMotion dur="2.4s" begin="0.35s" repeatCount="indefinite"><mpath href="#p2" xlink:href="#p2"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="0.35s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#0969da" opacity="0"><animateMotion dur="2.4s" begin="1.55s" repeatCount="indefinite"><mpath href="#p2" xlink:href="#p2"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="1.55s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#e8590c" opacity="0"><animateMotion dur="2.4s" begin="0.7s" repeatCount="indefinite"><mpath href="#p3" xlink:href="#p3"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#e8590c" opacity="0"><animateMotion dur="2.4s" begin="1.9s" repeatCount="indefinite"><mpath href="#p3" xlink:href="#p3"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#e8590c" opacity="0"><animateMotion dur="2.4s" begin="1.05s" repeatCount="indefinite"><mpath href="#p4" xlink:href="#p4"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="1.05s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#e8590c" opacity="0"><animateMotion dur="2.4s" begin="2.25s" repeatCount="indefinite"><mpath href="#p4" xlink:href="#p4"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="2.25s" repeatCount="indefinite"/></circle>
+<line x1="40" y1="424" x2="860" y2="424" stroke="#d0d7de"/>
+<line x1="40" y1="456" x2="860" y2="456" stroke="#d0d7de"/>
+<g mask="url(#tickmask)"><g clip-path="url(#tickclip)">
+<g><animateTransform attributeName="transform" type="translate" from="0 0" to="-1185.6 0" dur="31.2s" repeatCount="indefinite"/>
+<text class="mono" x="40.0" y="445" font-size="13" fill="#57606a" xml:space="preserve" textLength="1185.6" lengthAdjust="spacing">TYPESCRIPT  ·  REACT  ·  NEXT.JS  ·  NESTJS  ·  REACT NATIVE  ·  KOTLIN  ·  FLUTTER  ·  SWIFT  ·  POSTGRESQL  ·  FIREBASE  ·  DOCKER  ·  KUBERNETES  ·  </text>
+<text class="mono" x="1225.6" y="445" font-size="13" fill="#57606a" xml:space="preserve" textLength="1185.6" lengthAdjust="spacing">TYPESCRIPT  ·  REACT  ·  NEXT.JS  ·  NESTJS  ·  REACT NATIVE  ·  KOTLIN  ·  FLUTTER  ·  SWIFT  ·  POSTGRESQL  ·  FIREBASE  ·  DOCKER  ·  KUBERNETES  ·  </text>
+</g></g></g>
+<text class="mono" x="450" y="492" font-size="12" fill="#6e7781" text-anchor="middle" xml:space="preserve">beraekimci.com.tr   ·   linkedin.com/in/ahmed-bera-ekimci   ·   ahmedberaekimci@gmail.com</text>
+</svg>
